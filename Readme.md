@@ -2,32 +2,28 @@
 
 Welcome to my GitHub repository! Here, you can find links to all my projects published on Medium. Each article is crafted for intermediate developers, focusing on clarity and simplicity.
 
-<!-- ## 📚 Articles -->
+## 📚 Articles
 
-<!-- ### 1. [Title of Article 1](https://medium.com/link-to-article-1)
-- **Summary:** A brief description of what the article covers.
-- **Tags:** #Tag1 #Tag2 #Tag3
+### 1. [How to Use Docker Redis with NestJS](https://medium.com/@panat.siriwong/how-to-use-docker-redis-with-nestjs-7543bd17f39e)
 
-### 2. [Title of Article 2](https://medium.com/link-to-article-2)
-- **Summary:** A brief description of what the article covers.
-- **Tags:** #Tag1 #Tag2 #Tag3
+- **Summary:** A step-by-step guide on setting up and integrating Docker Redis with a NestJS application. Ideal for developers looking to add caching to their NestJS projects.
+- **Tags:** #NestJS #Redis #Docker #BackendDevelopment
 
-### 3. [Title of Article 3](https://medium.com/link-to-article-3)
-- **Summary:** A brief description of what the article covers.
-- **Tags:** #Tag1 #Tag2 #Tag3 -->
+## 🛠️ Tools & Technologies
 
-<!-- ## 🛠️ Tools & Technologies
 These articles typically cover:
-- Programming languages: JavaScript, TypeScript, etc.
-- Frameworks: NestJS, React, etc.
-- Tools: Docker, GitLab CI/CD, etc. -->
 
-<!-- ## 🌱 About Me
-I'm passionate about making complex concepts easy to understand. My goal is to help developers like you grow by sharing practical and actionable content.
+- Programming languages: TypeScript.
+- Frameworks: NestJS.
+- Tools: Docker.
 
-Feel free to check out my [Medium Profile](https://medium.com/@your-profile) for more articles! -->
+## 🌱 About Me
+I'm passionate about making complex concepts easy to understand.
+
+Feel free to check out my [Medium Profile](https://medium.com/@panat.siriwong) for more articles!
 
 ## 📬 Get in Touch
-- **Email:** panat54083@gmail.com
+
+- **Email:** panat.siriwong@gmail.com
 
 Thanks for visiting, and happy coding! 🚀
