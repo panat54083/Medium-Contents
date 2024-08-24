@@ -27,9 +27,7 @@ I'm passionate about making complex concepts easy to understand. My goal is to h
 
 Feel free to check out my [Medium Profile](https://medium.com/@your-profile) for more articles! -->
 
-<!-- ## 📬 Get in Touch
-- **Twitter:** [@your-handle](https://twitter.com/your-handle)
-- **LinkedIn:** [Your Name](https://linkedin.com/in/your-profile)
-- **Email:** your.email@example.com -->
+## 📬 Get in Touch
+- **Email:** panat54083@gmail.com
 
 Thanks for visiting, and happy coding! 🚀
